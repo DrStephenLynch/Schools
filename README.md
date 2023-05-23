@@ -1,4 +1,4 @@
-# MathsConf30
+# Python and Teaching Maths in Secondary Schools
 
 A Python Notebook to get you started.
 
